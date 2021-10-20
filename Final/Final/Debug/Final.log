@@ -1,0 +1,7 @@
+﻿  deque (2).cpp
+C:\Users\labib\Downloads\deque (2).cpp(94,19): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\labib\Downloads\deque (2).cpp(95,18): warning C4553: '==': result of expression not used; did you intend '='?
+  list_Sorting (3).cpp
+  Generating Code...
+C:\Users\labib\Downloads\deque (2).cpp(191): error C4716: 'Stack::top': must return a value
+C:\Users\labib\Downloads\deque (2).cpp(162): error C4716: 'Queue::front': must return a value
